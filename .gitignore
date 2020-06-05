@@ -3,4 +3,4 @@ outputFiles/*
 lib/__pycache__
 !outputFiles/placeholder.txt
 inputFiles/*
-!inputCsvFiles/input_mean_stddev.csv
+!inputfiles/input_mean_stddev.csv

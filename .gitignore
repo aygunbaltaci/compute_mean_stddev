@@ -1,6 +1,6 @@
 myapp
-outputFiles/*
+outputfiles/*
 lib/__pycache__
-!outputFiles/placeholder.txt
-inputFiles/*
+!outputfiles/placeholder.txt
+inputfiles/*
 !inputfiles/input_mean_stddev.csv
